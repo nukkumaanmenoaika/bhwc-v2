@@ -1,0 +1,118 @@
+C:\Users\у\Desktop\sotrudniki\sotrudniki\bin\Debug\sotrudniki.exe.config
+C:\Users\у\Desktop\sotrudniki\sotrudniki\bin\Debug\sotrudniki.exe
+C:\Users\у\Desktop\sotrudniki\sotrudniki\bin\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\MainWindow.g.cs
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\View\WindowEmployee.g.cs
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\View\WindowRole.g.cs
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\App.g.cs
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.cache
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.lref
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\MainWindow.baml
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\View\WindowEmployee.baml
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\View\WindowRole.baml
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.g.resources
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.Properties.Resources.resources
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.csproj.GenerateResource.cache
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.exe
+C:\Users\у\Desktop\sotrudniki\sotrudniki\obj\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe.config
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\bin\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\MainWindow.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowRole.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\App.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.cache
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.lref
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\MainWindow.baml
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.baml
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowRole.baml
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.g.resources
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.Properties.Resources.resources
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.GenerateResource.cache
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.exe
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.baml
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.g.cs
+C:\Users\у\Desktop\project\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe.config
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\bin\Debug\sotrudniki.pdb
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.AssemblyReference.cache
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\MainWindow.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowRole.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\App.g.cs
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.cache
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.lref
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\MainWindow.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\View\WindowRole.baml
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.g.resources
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.Properties.Resources.resources
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.GenerateResource.cache
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.CoreCompileInputs.cache
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.exe
+C:\Users\warfa\OneDrive\Рабочий стол\lab\StaffLab\sotrudniki\obj\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe.config
+C:\Users\у\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe
+C:\Users\у\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\MainWindow.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowRole.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\App.g.cs
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.cache
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.lref
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\MainWindow.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowRole.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.g.resources
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.Properties.Resources.resources
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.GenerateResource.cache
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.exe
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.pdb
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\DictionaryApp.baml
+C:\Users\у\Desktop\StaffLab\sotrudniki\obj\Debug\App.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe.config
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.exe
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\bin\Debug\sotrudniki.pdb
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.AssemblyReference.cache
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\DictionaryApp.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\MainWindow.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowRole.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\App.g.cs
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.cache
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki_MarkupCompile.lref
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\App.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\MainWindow.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowEmployee.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewEmployee.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowNewRole.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\View\WindowRole.baml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.g.resources
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.Properties.Resources.resources
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.GenerateResource.cache
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.CoreCompileInputs.cache
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.exe
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.pdb
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\obj\Debug\sotrudniki.csproj.CopyComplete
