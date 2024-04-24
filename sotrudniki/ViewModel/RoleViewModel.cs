@@ -20,18 +20,12 @@ namespace sotrudniki.ViewModel
     public class RoleViewModel : INotifyPropertyChanged
     {
         readonly string path = @"C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\DataModels\RoleData.json";
-        /// <summary>
-        /// коллекция должностей сотрудников
-        /// </summary>
+        
         public ObservableCollection<Role> ListRole { get; set; } = new
        ObservableCollection<Role>();
-        /// <summary>
-        /// выбранная в списке должность
-        /// </summary>
+        
         private Role _selectedRole;
-        /// <summary>
-        /// выбранная в списке должность
-        /// </summary>
+       
         public Role SelectedRole
         {
             get
@@ -135,10 +129,7 @@ namespace sotrudniki.ViewModel
         }
         #endregion
         #region Methods
-        /// <summary>
-        /// загрузка json файла и дессериализация данных для коллекциидолжностей ListRole
- /// </summary>
- /// <returns></returns>
+        
  public ObservableCollection<Role> LoadRole()
         {
             _jsonRoles = File.ReadAllText(path);
