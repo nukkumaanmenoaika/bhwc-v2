@@ -1,7 +1,4 @@
 ﻿using Newtonsoft.Json;
-using sotrudniki.Helper;
-using sotrudniki.Model;
-using sotrudniki.View;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -12,12 +9,15 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using sotrudniki.Helper;
+using sotrudniki.Model;
+using sotrudniki.View;
 
 namespace sotrudniki.ViewModel
 {
     public class PersonViewModel : INotifyPropertyChanged
     {
-        readonly string path = @"C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\DataModels\PersonData.json";
+        readonly string path = @"C:\Users\у\Desktop\bhwc-v2\sotrudniki\DataModels\PersonData.json";
         private PersonDpo _selectedPersonDpo;
         /// <summary>
         /// выделенные в списке данные по сотруднику
@@ -51,13 +51,9 @@ namespace sotrudniki.ViewModel
             ListPersonDpo = GetListPersonDpo();
         }
  #region AddPerson
- /// <summary>87
- /// добавление сотрудника
- /// </summary>
+
  private RelayCommand _addPerson;
-        /// <summary>
-        /// добавление сотрудника
-        /// </summary>
+       
         public RelayCommand AddPerson
         {
             get

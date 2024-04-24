@@ -19,7 +19,7 @@ namespace sotrudniki.ViewModel
 {
     public class RoleViewModel : INotifyPropertyChanged
     {
-        readonly string path = @"C:\Users\Ametsa\Desktop\StaffLab\sotrudniki\DataModels\RoleData.json";
+        readonly string path = @"C:\Users\у\Desktop\bhwc-v2\sotrudniki\DataModels\RoleData.json";
         
         public ObservableCollection<Role> ListRole { get; set; } = new
        ObservableCollection<Role>();
