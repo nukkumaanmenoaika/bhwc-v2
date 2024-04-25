@@ -8,33 +8,23 @@ using System.Threading.Tasks;
 
 namespace sotrudniki.Model
 {
-    public class Role : INotifyPropertyChanged
+    public class Role
     {
+        /// <summary>
+        /// код должности
+        /// </summary>
         public int Id { get; set; }
-        private string nameRole;
-        public string NameRole
+        /// <summary>
+        /// наименование должности
+        /// </summary>
+        public string NameRole { get; set; }
+        public Role()
         {
-            get { return nameRole; }
-            set
-            {
-                nameRole = value;
-                OnPropertyChanged("NameRole");
-            }
+            this.Persons = new HashSet<Person>();
         }
-        public Role() { }
-        public Role(int id, string nameRole)
-        {
-            this.Id = id;
-            this.NameRole = nameRole;
-        }
-        public Role ShallowCopy()
-        {
-            return (Role)this.MemberwiseClone();
-        }
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = "")
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
+        /// <summary>
+        /// коллекция Persons для связи с классом Person
+        /// </summary>
+        public virtual ICollection<Person> Persons { get; set; }
     }
 }

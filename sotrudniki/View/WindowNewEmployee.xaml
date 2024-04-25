@@ -41,10 +41,12 @@
  Text="{Binding FirstName}" 
  Height="20" Width="130"
  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5"/>
-        <ComboBox x:Name="CbRole" Grid.Row="1" Grid.Column="1" 
-Height="20" Width="130" 
- HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5"
- DisplayMemberPath="NameRole"/>
+        <ComboBox x:Name="CbRole" Grid.Row="0" Grid.Column="1" 
+    Height="20" Width="130" 
+    HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5"
+    DisplayMemberPath="NameRole"
+    SelectedValue="{Binding Path=RoleId, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged }"
+    SelectedValuePath="Id"/>    
         <TextBox x:Name="tbBirthday" Style="{StaticResource TextBoxDate}"
  Text="{Binding Birthday}"
  Grid.Row="4" Grid.Column="1" Height="20"

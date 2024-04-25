@@ -36,8 +36,8 @@ namespace sotrudniki.View
         {
             if (lvEmployee.SelectedItem != null)
             {
-                var selectedPerson = lvEmployee.SelectedItem as PersonDpo;
-                vmPerson.SelectedPersonDpo = selectedPerson;
+                var selectedPerson = lvEmployee.SelectedItem as Person;
+                vmPerson.SelectedPerson = selectedPerson;
             }
         }
     }

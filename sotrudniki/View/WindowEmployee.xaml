@@ -12,14 +12,14 @@
             <Button x:Name="btnEdit" Style="{StaticResource ButtonMenu}" Content="Редактировать" Command="{Binding EditPerson}"/>
             <Button x:Name="btnDelete" Style="{StaticResource ButtonMenu}" Content="Удалить"  Command="{Binding DeletePerson}"/>
         </StackPanel>
-        <ListView x:Name="lvEmployee" ItemsSource="{Binding ListPersonDpo}" SelectionChanged="EmployeeListView_Select">
+        <ListView x:Name="lvEmployee" ItemsSource="{Binding ListPerson}" SelectionChanged="EmployeeListView_Select">
             <ListView.View>
                 <GridView>
                     <GridView.Columns>
                         <GridViewColumn Header="Код" Width="50" DisplayMemberBinding="{Binding Id}"/>
                         <GridViewColumn Header="Фамилия" DisplayMemberBinding="{Binding LastName}"/>
                         <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding FirstName}"/>
-                        <GridViewColumn Header="Должность" DisplayMemberBinding="{Binding RoleName}"/>
+                        <GridViewColumn Header="Должность" Width="100" DisplayMemberBinding="{Binding Role.NameRole, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
                         <GridViewColumn Header="Дата рождения" DisplayMemberBinding="{Binding Birthday}"/>
                     </GridView.Columns>
                 </GridView>
