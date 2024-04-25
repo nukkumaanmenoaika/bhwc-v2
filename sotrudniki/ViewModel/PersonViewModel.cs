@@ -257,21 +257,7 @@ namespace sotrudniki.ViewModel
         /// Сохранение json-строки с данными по сотрудникам в json      
         /// </summary>
         /// <param name="listPersons"></param>
-        private void SaveChanges(ObservableCollection<Person> listPersons)
-        {
-            var jsonPerson = JsonConvert.SerializeObject(listPersons);
-            try
-            {
-                using (StreamWriter writer = File.CreateText(path))
-                {
-                    writer.Write(jsonPerson);
-                }
-            }
-            catch (IOException e)
-            {
-                Error = "Ошибка записи json файла /n" + e.Message;
-            }
-        }
+      
         #endregion
         public event PropertyChangedEventHandler PropertyChanged;
       

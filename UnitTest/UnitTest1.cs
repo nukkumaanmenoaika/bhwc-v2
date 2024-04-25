@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using sotrudniki;
 using sotrudniki.Model;
 using sotrudniki.ViewModel;
 using System;
@@ -18,7 +19,20 @@ namespace UnitTest
             };
             v.ListRole.Add(r);
             v.SaveChanges(v.ListRole);
-
+        }
+        [TestMethod]
+        public void PersonTest()
+        {
+            PersonViewModel v = new PersonViewModel();
+            Person r = new Person {
+                Id = 5,
+                RoleId = 1,
+                FirstName = "Сергей",
+                LastName = "Сергеев",
+                Birthday = DateTime.Now,
+                Role = new Role()
+            };
+            v.ListPerson.Add(r);
         }
     }
 }
